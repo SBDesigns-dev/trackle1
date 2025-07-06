@@ -50,7 +50,7 @@ class App {
 } // App
 
 const roundelIcon = L.icon({
-    iconUrl: 'https://cdn.glitch.global/8357f303-720f-4e93-ab5a-fafe557be39c/Underground%20roundel.svg?v=1697070706179',
+    iconUrl: '/roundel.svg',
     iconSize: [32, 32],
 });
 
